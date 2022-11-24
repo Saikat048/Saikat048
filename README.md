@@ -1,4 +1,4 @@
-![Web Developer || MERN Stack Developer || React Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer || MERN Stack Developer || React Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://avatars.githubusercontent.com/u/96794152?v=4))
 
 ## Hi there 👋, I'm Saikat
 #### Web Developer || MERN Stack Developer || React Developer
