@@ -1,6 +1,6 @@
-![Web Developer || MERN Stack Developer || React Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://avatars.githubusercontent.com/u/96794152?v=4))
+![Web Developer || MERN Stack Developer || React Developer](https://avatars.githubusercontent.com/u/96794152?v=4)
 
-## Hi there 👋, I'm Saikat
+### Hi there 👋, I'm Saikat
 #### Web Developer || MERN Stack Developer || React Developer
 
 I'm a web developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problem. I'm strategic, goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with React JS but some technologies I enjoy working with include Redux, React-Native.
